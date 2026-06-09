@@ -50,19 +50,12 @@
 
 ---
 
-## Day 03 ✅
+## Day 03
 오늘 한 것:
-- ai-lab/ + onDeviceAI/memory/ 전체 디렉토리 아키텍처 확정
-- Claude 메모리 파일 구조 설계 (MEMORY.md, user_profile.md, project_roadmap.md 등)
-- Claude Stop 훅 KST 타임스탬프로 수정
-- Day 02 내용 github.io 블로그 포스팅 작성
 
 막힌 것:
-- 오전 도커 세션 로그 훅으로 미저장 (Claude Desktop 환경이라 훅 미적용)
 
 내일 할 것:
-- nginx 컨테이너 실행 + 포트 포워딩 체험
-- `usermod -aG docker dayeon` 적용
 
 ---
 
