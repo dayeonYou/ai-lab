@@ -50,12 +50,22 @@
 
 ---
 
-## Day 03
+## Day 03 ✅
 오늘 한 것:
+- `sudo usermod -aG docker dayeon` → sudo 없이 docker 사용 가능
+- nginx 컨테이너 백그라운드 실행 (`docker run -d -p 8080:80 nginx`)
+- 브라우저에서 `192.168.45.94:8080` 접속 → "Welcome to nginx!" 확인
+- `docker logs`로 컨테이너 내부 로그 확인
+- `docker stop`으로 컨테이너 정상 종료
+- Exited (0) vs Exited (137) 차이 이해
+- worker process 2개 = 서버 CPU 2코어 자동 감지 확인
 
 막힌 것:
+- 없음
 
 내일 할 것:
+- Docker Volume 실습 (`docker volume create`, mount)
+- `docker network ls` — 네트워크 구조 파악
 
 ---
 
