@@ -15,7 +15,7 @@
 
 ---
 
-## Day 01 - 2026-06-07 ✅
+## Day 01 ✅
 오늘 한 것:
 - Ubuntu apt update/upgrade 완료
 - 시스템 정보 확인 (uname, lscpu, free, df)
@@ -32,7 +32,7 @@
 
 ---
 
-## Day 02 - 2026-06-08 ✅
+## Day 02 ✅
 오늘 한 것:
 - Docker 설치 (`sudo apt install -y docker.io`) — Docker 29.1.3
 - containerd, runc, bridge-utils 같이 설치됨
@@ -50,7 +50,7 @@
 
 ---
 
-## Day 03 - 2026-06-09 ✅
+## Day 03 ✅
 오늘 한 것:
 - ai-lab/ + onDeviceAI/memory/ 전체 디렉토리 아키텍처 확정
 - Claude 메모리 파일 구조 설계 (MEMORY.md, user_profile.md, project_roadmap.md 등)
@@ -66,7 +66,7 @@
 
 ---
 
-## Day 04 - 2026-06-10
+## Day 04
 오늘 한 것:
 
 막힌 것:
@@ -75,7 +75,7 @@
 
 ---
 
-## Day 05 - 2026-06-11
+## Day 05
 오늘 한 것:
 
 막힌 것:
@@ -84,7 +84,7 @@
 
 ---
 
-## Day 06 - 2026-06-12
+## Day 06
 오늘 한 것:
 
 막힌 것:
@@ -93,7 +93,7 @@
 
 ---
 
-## Day 07 - 2026-06-13 🛌 휴식
+## Day 07 🛌 휴식
 
 ---
 
